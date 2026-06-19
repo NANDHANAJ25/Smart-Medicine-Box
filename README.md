@@ -28,15 +28,12 @@ The **IoT-Based Smart Medicine Reminder Box** uses an ESP32 to remind users to t
 3. Upload the code to an ESP32 or run it in Wokwi.
 4. Configure the corresponding widgets in the Blynk dashboard.
 
-##  Project Screenshot
-![Screenshot 1](Screenshot 2026-06-14 184308.png)
+## Project Screenshots
 
-![Screenshot 2](Screenshot 2026-06-14 184320.png)
+![Screenshot 1](screenshot1.png)
 
-![Screenshot 3](Screenshot 2026-06-14 184349.png)
+![Screenshot 2](screenshot2.png)
 
-![Screenshot 4]Screenshot 2026-06-14 184411.png)
+![Screenshot 3](screenshot3.png)
 
-
-## 👩‍💻 Author
-Nandhana
+![Screenshot 4](screenshot4.png)
