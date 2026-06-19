@@ -32,12 +32,11 @@ The **IoT-Based Smart Medicine Reminder Box** uses an ESP32 to remind users to t
 
 <table>
   <tr>
-    <td><img src="screenshot1.png" width="300"></td>
-    <td><img src="screenshot2.png" width="300"></td>
-    
+    <td><img src="images/screenshot1.png" width="300"></td>
+    <td><img src="images/screenshot2.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="screenshot3.png" width="300"></td>
-    <td><img src="screenshot4.png" width="300"></td>
+    <td><img src="images/screenshot3.png" width="300"></td>
+    <td><img src="images/screenshot4.png" width="300"></td>
   </tr>
 </table>
